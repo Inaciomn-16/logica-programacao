@@ -1,1 +1,1 @@
-são somente exercícios, então a maior parte é simples, estou no começo
+These are just exercises, so most of them are simple; I'm at the beginning.
