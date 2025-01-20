@@ -1,1 +1,1 @@
-Caso queira ver o que foi escrito no código, particularmente, recomendo instalar o visualg, pois é uma ferramenta gratuita.
+são somente exercícios, então a maior parte é simples, estou no começo
